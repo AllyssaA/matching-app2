@@ -33,7 +33,7 @@ $ npm install
 $ npm run
 ```
 
-# 🌐 Database strcture
+<!-- # 🌐 Database strcture -->
 <!-- De database software dat ik heb gebruikt voor mijn feature is mongoDB op de cloud platform van MongoDB Atlas
 
 Screenshot van de databse MatchingApp
