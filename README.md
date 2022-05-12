@@ -10,7 +10,7 @@ Create a couple of job stories and pick one of those to build your feature for b
 
 
 ## Job story
-`When I'm` lookinng for a book match `I want to` add a booklist to my profile `so that` I can be matched with books that I haven't read yet.
+`When I'm` looking for a book match `I want to` add a booklist to my profile `so that` I can be matched with books that I haven't read yet.
 
 
 # 👩‍🏫 Installation
