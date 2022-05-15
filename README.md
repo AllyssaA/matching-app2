@@ -28,7 +28,7 @@ $ clone git clone https://github.com/AllyssaA/matching-app2.git
 $ npm install
 ```
 
-## Start de server
+## Start server
 ```
 $ npm run
 ```
