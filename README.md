@@ -13,7 +13,7 @@ Create a couple of job stories and pick one of those to build your feature for b
 `When I'm` looking for a book match `I want to` add a book to my list on my profile `so that` I can be matched with books that I haven't read yet.
 
 
-# 👩‍🏫 Installation
+# ⚙️ Installation
 To run this project you will need MongoDB, NPM and NodeJS.
 
 ## Clone repo
