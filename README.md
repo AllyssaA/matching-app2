@@ -2,7 +2,7 @@
 
 A matching-app for CMD Block-Tech. Find your bookmatch
 
-Feature: add a book to your booklist
+Feature: add a book to your list
 
 # 📝 Assignment
 
@@ -10,7 +10,7 @@ Create a couple of job stories and pick one of those to build your feature for b
 
 
 ## Job story
-`When I'm` looking for a book match `I want to` add a booklist to my profile `so that` I can be matched with books that I haven't read yet.
+`When I'm` looking for a book match `I want to` add a book to my list on my profile `so that` I can be matched with books that I haven't read yet.
 
 
 # 👩‍🏫 Installation
